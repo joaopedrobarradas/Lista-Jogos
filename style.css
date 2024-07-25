@@ -108,6 +108,7 @@ header {
     font-weight:700;
     color: #ffff;
     border: 0;
+    cursor: pointer;
 }
 
 .img__style {
